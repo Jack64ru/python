@@ -1,0 +1,6 @@
+y = float(1+4)
+print("Hello world!")
+print(y)
+x = str("hello")
+print(x)
+print(x[0])
